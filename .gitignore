@@ -1,0 +1,5 @@
+# ignoring all css files
+.css
+# ignore all js folder
+JS/
+CSS/
